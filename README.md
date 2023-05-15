@@ -27,6 +27,4 @@ env/Scripts/Activate.ps1 //In Powershel
 
 # Run it
 
-Run the app
-
 python -m streamlit run app.py
