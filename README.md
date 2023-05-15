@@ -18,7 +18,7 @@ OPENAI_API_KEY=
 
 - Create a new virtual enviroment
 
-python -m venv <virtual-environment-name>
+python -m venv env
 
 - Activate it
 
